@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+#map-canvas {
+  height: 600px;
+  width: 1100px;
+  margin: 0px auto;
+}
